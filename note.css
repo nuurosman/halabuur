@@ -1,0 +1,29 @@
+nav .navbar-container .navbars a{
+    color: white;
+    margin-left:10px;
+    font-size: 18px;
+    text-decoration: none;
+ }
+ nav .navbar-container .navbars button{
+    background-color: rgb(5, 151, 5);
+    padding: 10px 20px;
+    color: white;
+    font-size: 18px;
+    border-radius: 40px;
+    margin-top: -6px;
+    border: none;
+ }
+ nav .navbar-container label .fa-bars{
+    font-size: 40px;
+    color: white;
+ }
+
+ nav .navbar-container #check{
+    display: none;
+ }
+ nav .navbar-container label .fa-bars{
+    display: none;
+ }
+ nav .navbar-container label .bars{
+    display: none;
+ }
